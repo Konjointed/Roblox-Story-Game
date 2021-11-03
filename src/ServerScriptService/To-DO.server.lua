@@ -1,0 +1,11 @@
+--| To-Do List
+--[[
+- Show the player a list of everything they did within the last 5minutes
+- Improve UI
+- Add NPC
+- Make murderer
+- NPCs can walk around and pick up items
+- Player can talk to npcs and check their inventory
+- Only the murderer will use the items to kill people
+- 
+]]
